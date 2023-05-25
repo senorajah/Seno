@@ -1,0 +1,4 @@
+def div(n1, n2):
+    return n1 / n2
+result = div(10, 2)
+print(result)  # Output: 5.0
